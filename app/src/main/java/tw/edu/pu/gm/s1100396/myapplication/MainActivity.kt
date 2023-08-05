@@ -8,6 +8,9 @@ import android.widget.EditText
 import android.widget.ListView
 import androidx.appcompat.app.AppCompatActivity
 
+
+//第一版:只有新增記事，點擊記錄可以做編輯
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var listViewNotes: ListView
